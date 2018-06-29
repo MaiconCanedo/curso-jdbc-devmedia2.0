@@ -506,8 +506,8 @@ public class CrudFrame extends javax.swing.JFrame {
             tbPrincipal.getColumnModel().getColumn(2).setPreferredWidth(34);
             tbPrincipal.getColumnModel().getColumn(2).setMaxWidth(35);
             tbPrincipal.getColumnModel().getColumn(3).setMinWidth(5);
-            tbPrincipal.getColumnModel().getColumn(3).setPreferredWidth(100);
-            tbPrincipal.getColumnModel().getColumn(3).setMaxWidth(110);
+            tbPrincipal.getColumnModel().getColumn(3).setPreferredWidth(108);
+            tbPrincipal.getColumnModel().getColumn(3).setMaxWidth(112);
             tbPrincipal.getColumnModel().getColumn(5).setMinWidth(5);
             tbPrincipal.getColumnModel().getColumn(5).setPreferredWidth(69);
             tbPrincipal.getColumnModel().getColumn(5).setMaxWidth(80);
@@ -740,8 +740,8 @@ public class CrudFrame extends javax.swing.JFrame {
             tbConsulta.getColumnModel().getColumn(2).setPreferredWidth(34);
             tbConsulta.getColumnModel().getColumn(2).setMaxWidth(35);
             tbConsulta.getColumnModel().getColumn(3).setMinWidth(5);
-            tbConsulta.getColumnModel().getColumn(3).setPreferredWidth(100);
-            tbConsulta.getColumnModel().getColumn(3).setMaxWidth(110);
+            tbConsulta.getColumnModel().getColumn(3).setPreferredWidth(109);
+            tbConsulta.getColumnModel().getColumn(3).setMaxWidth(112);
             tbConsulta.getColumnModel().getColumn(5).setMinWidth(5);
             tbConsulta.getColumnModel().getColumn(5).setPreferredWidth(69);
             tbConsulta.getColumnModel().getColumn(5).setMaxWidth(80);
@@ -881,8 +881,8 @@ public class CrudFrame extends javax.swing.JFrame {
             tbExcluidos.getColumnModel().getColumn(2).setPreferredWidth(34);
             tbExcluidos.getColumnModel().getColumn(2).setMaxWidth(35);
             tbExcluidos.getColumnModel().getColumn(3).setMinWidth(5);
-            tbExcluidos.getColumnModel().getColumn(3).setPreferredWidth(100);
-            tbExcluidos.getColumnModel().getColumn(3).setMaxWidth(110);
+            tbExcluidos.getColumnModel().getColumn(3).setPreferredWidth(109);
+            tbExcluidos.getColumnModel().getColumn(3).setMaxWidth(112);
             tbExcluidos.getColumnModel().getColumn(5).setMinWidth(5);
             tbExcluidos.getColumnModel().getColumn(5).setPreferredWidth(69);
             tbExcluidos.getColumnModel().getColumn(5).setMaxWidth(80);
